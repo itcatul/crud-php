@@ -22,9 +22,9 @@ include "config.php"
   <thead>
     <tr>
       <th scope="col">ID</th>
-      <th scope="col">First Name</th>
+      <th scope="col">FirstN ame</th>
       <th scope="col">Last Name</th>
-      <th scope="col">Email</th>
+      <th scope="col">Email ID </th>
       <th scope="col">Gender</th>
       <th scope="col">Password</th>
       <th scope="col">Operation</th>
